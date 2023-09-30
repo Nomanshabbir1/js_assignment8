@@ -6,3 +6,12 @@
    background-size:cover;
    background-position: center;
 }
+
+
+.character{
+    height: 150vh;
+    width: 300px;
+    object-fit: contain;
+    position: absolute;
+    top:20px;
+}
